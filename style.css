@@ -577,7 +577,7 @@ body.menu-expanded button path {
 }
 
 #about .wrapper .nossasMarcas img {
- margin-left: 5rem;
+ margin-left: 8rem;
 }
 
 /*=== CONTACT =================================*/
@@ -1094,7 +1094,7 @@ footer .social-links {
 
   #about .col-a .nossasMarcas img {
     text-align: center;
-    margin-left: 30rem;
+    margin-left: 35rem;
     margin-bottom: 0;
     
    
@@ -1123,6 +1123,7 @@ footer .social-links {
   footer {
     padding-block: 0.5rem;
     display: flex;
+   
     
   }
   
@@ -1150,6 +1151,7 @@ footer .social-links {
     justify-content: center;
     margin-top: 10rem;
     margin-bottom: 6rem;
+    text-align: center;
   }
 
   footer .logo img {
